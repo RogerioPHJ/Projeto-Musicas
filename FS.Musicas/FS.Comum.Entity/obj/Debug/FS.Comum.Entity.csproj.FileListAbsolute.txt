@@ -1,0 +1,11 @@
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\FS.Comum.Entity.dll.config
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\FS.Comum.Entity.dll
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\FS.Comum.Entity.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\obj\Debug\FS.Comum.Entity.csprojAssemblyReference.cache
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\obj\Debug\FS.Comum.Entity.csproj.CopyComplete
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\obj\Debug\FS.Comum.Entity.dll
+C:\Projetos no GIT\FS.Musicas\FS.Comum.Entity\obj\Debug\FS.Comum.Entity.pdb

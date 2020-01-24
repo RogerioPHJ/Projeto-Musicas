@@ -52,6 +52,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MusicasDbContext.cs" />
+    <Compile Include="Migrations\202001241550510_MigracaoInicial.cs" />
+    <Compile Include="Migrations\202001241550510_MigracaoInicial.designer.cs">
+      <DependentUpon>202001241550510_MigracaoInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202001241604163_AdicaoEmailAlbum.cs" />
+    <Compile Include="Migrations\202001241604163_AdicaoEmailAlbum.designer.cs">
+      <DependentUpon>202001241604163_AdicaoEmailAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TypeConfiguration\AlbumTypeConfiguration.cs" />
   </ItemGroup>
@@ -68,6 +77,14 @@
       <Project>{a13f2162-b4ac-4f57-8b47-2c5df2aca1bf}</Project>
       <Name>FS.Musicas.Dominio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202001241550510_MigracaoInicial.resx">
+      <DependentUpon>202001241550510_MigracaoInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202001241604163_AdicaoEmailAlbum.resx">
+      <DependentUpon>202001241604163_AdicaoEmailAlbum.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

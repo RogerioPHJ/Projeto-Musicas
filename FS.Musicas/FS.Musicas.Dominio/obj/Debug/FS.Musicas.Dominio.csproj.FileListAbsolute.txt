@@ -1,0 +1,5 @@
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Dominio\bin\Debug\FS.Musicas.Dominio.dll
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Dominio\bin\Debug\FS.Musicas.Dominio.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Dominio\obj\Debug\FS.Musicas.Dominio.csprojAssemblyReference.cache
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Dominio\obj\Debug\FS.Musicas.Dominio.dll
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Dominio\obj\Debug\FS.Musicas.Dominio.pdb

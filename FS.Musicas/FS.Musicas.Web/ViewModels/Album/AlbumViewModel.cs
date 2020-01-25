@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FS.Musicas.Web.Annotations;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -27,6 +28,7 @@ namespace FS.Musicas.Web.ViewModels.Album
         [DataType(DataType.EmailAddress)]
         [Required(ErrorMessage = "O Email é obrigatório")]
         [MaxLength(50, ErrorMessage = "O email não pode ter mais que 50 caracteres")]
+        [EmailGmail (ErrorMessage = "O Email deve ser do Gmail")]
         public string Email { get; set; }
 
     }

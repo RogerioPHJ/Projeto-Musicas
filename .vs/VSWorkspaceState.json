@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FS.Musicas"
+    "\\FS.Musicas",
+    "\\FS.Musicas\\FS.Musicas.Web",
+    "\\FS.Musicas\\FS.Musicas.Web\\Controllers"
   ],
-  "SelectedNode": "\\FS.TesteASPNETMVC",
+  "SelectedNode": "\\FS.Musicas\\FS.Musicas.Web\\Controllers\\AlbunsController.cs",
   "PreviewInSolutionExplorer": false
 }

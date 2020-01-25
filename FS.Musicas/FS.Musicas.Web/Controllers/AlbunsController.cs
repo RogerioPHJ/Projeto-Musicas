@@ -18,7 +18,7 @@ namespace FS.Musicas.Web.Controllers
         // GET: Albuns
         public ActionResult Index()
         {
-            return View(db.Albuns.ToList());
+            return View(db.Albuns.ToList()); //Isso é equivalente a um SELECT * FROM ALB_ALBUNS
         }
 
         // GET: Albuns/Details/5

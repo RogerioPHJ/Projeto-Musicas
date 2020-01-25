@@ -1,4 +1,4 @@
-﻿@model IEnumerable<FS.Musicas.Dominio.Album>
+﻿@model IEnumerable <FS.Musicas.Web.ViewModels.Album.AlbumIndexViewModel> 
 
 @{
     ViewBag.Title = "Index";
@@ -7,7 +7,7 @@
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Create New", "Create")  
 </p>
 <table class="table">
     <tr>
@@ -26,10 +26,11 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
+@foreach (var item in Model) {  
+
     <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Nome)
+        <td> 
+            @Html.DisplayFor(modelItem => item.Nome)  
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Ano)

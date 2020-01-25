@@ -11,9 +11,9 @@ C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\bin\Debug\FS.Musicas
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.xml
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.csprojAssemblyReference.cache
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.Migrations.MigracaoInicial.resources
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.Migrations.AdicaoEmailAlbum.resources
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.csproj.GenerateResource.cache
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.csproj.CopyComplete
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.dll
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.pdb
-C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.Migrations.MigracaoInicial.resources
-C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.csproj.GenerateResource.cache
-C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\AdicaoEmailAlbum.resources

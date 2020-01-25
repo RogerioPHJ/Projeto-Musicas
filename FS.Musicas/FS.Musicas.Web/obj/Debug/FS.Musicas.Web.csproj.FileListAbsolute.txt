@@ -95,3 +95,13 @@ C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\obj\Debug\FS.Musicas.Web.csprojAsse
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\obj\Debug\FS.Musicas.Web.csproj.CopyComplete
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\obj\Debug\FS.Musicas.Web.dll
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\obj\Debug\FS.Musicas.Web.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\AutoMapper.dll
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Musica.Repositorios.Entity.dll
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Repositiorios.Comum.Entity.dll
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Repositorios.Comum.dll
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Musica.Repositorios.Entity.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Musica.Repositorios.Entity.dll.config
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Repositiorios.Comum.Entity.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Repositiorios.Comum.Entity.dll.config
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\FS.Repositorios.Comum.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.Web\bin\AutoMapper.xml

@@ -1,0 +1,5 @@
+C:\Projetos no GIT\FS.Musicas\FS.Repositorios.Comum\bin\Debug\FS.Repositorios.Comum.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositorios.Comum\bin\Debug\FS.Repositorios.Comum.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Repositorios.Comum\obj\Debug\FS.Repositorios.Comum.csprojAssemblyReference.cache
+C:\Projetos no GIT\FS.Musicas\FS.Repositorios.Comum\obj\Debug\FS.Repositorios.Comum.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositorios.Comum\obj\Debug\FS.Repositorios.Comum.pdb

@@ -1,0 +1,13 @@
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\FS.Repositiorios.Comum.Entity.dll.config
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\FS.Repositiorios.Comum.Entity.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\FS.Repositiorios.Comum.Entity.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\FS.Repositorios.Comum.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\FS.Repositorios.Comum.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\obj\Debug\FS.Repositiorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\obj\Debug\FS.Repositiorios.Comum.Entity.csproj.CopyComplete
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\obj\Debug\FS.Repositiorios.Comum.Entity.dll
+C:\Projetos no GIT\FS.Musicas\FS.Repositiorios.Comum.Entity\obj\Debug\FS.Repositiorios.Comum.Entity.pdb

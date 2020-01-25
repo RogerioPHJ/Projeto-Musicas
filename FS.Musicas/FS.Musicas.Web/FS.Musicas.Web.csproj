@@ -207,6 +207,10 @@
       <Project>{5ec307d2-990c-4f20-ba14-48df2e691efd}</Project>
       <Name>FS.Comum.Entity</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FS.Musica.Repositorios.Entity\FS.Musica.Repositorios.Entity.csproj">
+      <Project>{13323899-5ef7-400a-8f91-3352032bbbc2}</Project>
+      <Name>FS.Musica.Repositorios.Entity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FS.Musicas.AcessoDados.Entity\FS.Musicas.AcessoDados.Entity.csproj">
       <Project>{b5d4b423-b94a-4fd0-9256-98429e659959}</Project>
       <Name>FS.Musicas.AcessoDados.Entity</Name>
@@ -214,6 +218,14 @@
     <ProjectReference Include="..\FS.Musicas.Dominio\FS.Musicas.Dominio.csproj">
       <Project>{a13f2162-b4ac-4f57-8b47-2c5df2aca1bf}</Project>
       <Name>FS.Musicas.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FS.Repositiorios.Comum.Entity\FS.Repositiorios.Comum.Entity.csproj">
+      <Project>{1ae0c307-85d9-4b05-b135-f5eee5b2bdcf}</Project>
+      <Name>FS.Repositiorios.Comum.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FS.Repositorios.Comum\FS.Repositorios.Comum.csproj">
+      <Project>{f245ba6f-0565-424c-8261-28ed58acbc9a}</Project>
+      <Name>FS.Repositorios.Comum</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

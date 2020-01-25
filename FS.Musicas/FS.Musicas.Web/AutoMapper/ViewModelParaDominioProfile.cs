@@ -8,12 +8,11 @@ using System.Web;
 
 namespace FS.Musicas.Web.AutoMapper
 {
-    public class DominioParaViewModelProfile : Profile
+    public class ViewModelParaDominioProfile : Profile
     {
         protected override void Configure()
         {
-            Mapper.CreateMap<Album, AlbumExibicaoViewModel>();
-            Mapper.CreateMap<Album, AlbumViewModel>();
+            Mapper.CreateMap<AlbumViewModel, Album>();
         }
     }
 }

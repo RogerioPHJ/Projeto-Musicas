@@ -1,4 +1,4 @@
-﻿znamespace FS.Musicas.AcessoDados.Entity.Migrations
+﻿namespace FS.Musicas.AcessoDados.Entity.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

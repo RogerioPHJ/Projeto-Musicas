@@ -13,6 +13,12 @@ namespace FS.Musicas.AcessoDados.Entity.Context
     {
         public DbSet<Album> Albuns { get; set; }
 
+        public MusicasDbContext()
+        {
+            Configuration.LazyLoadingEnabled = false;
+            Configuration.ProxyCreationEnabled = false;
+        }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new AlbumTypeConfiguration());

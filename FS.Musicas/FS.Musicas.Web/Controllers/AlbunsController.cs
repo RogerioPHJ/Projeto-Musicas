@@ -6,8 +6,10 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using AutoMapper;
 using FS.Musicas.AcessoDados.Entity.Context;
 using FS.Musicas.Dominio;
+using FS.Musicas.Web.ViewModels.Album;
 
 namespace FS.Musicas.Web.Controllers
 {
@@ -18,7 +20,7 @@ namespace FS.Musicas.Web.Controllers
         // GET: Albuns
         public ActionResult Index()
         {
-            return View(db.Albuns.ToList()); //Isso é equivalente a um SELECT * FROM ALB_ALBUNS
+            return View(Mapper.Map<List<Album>, List<AlbumIndexViewModel>>(db.Albuns.ToList())); //Isso é equivalente a um SELECT * FROM ALB_ALBUNS
         }
 
         // GET: Albuns/Details/5

@@ -17,3 +17,4 @@ C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.csproj.CopyComplete
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.dll
 C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.pdb
+C:\Projetos no GIT\FS.Musicas\FS.Musicas.AcessoDados.Entity\obj\Debug\FS.Musicas.AcessoDados.Entity.Migrations.AdicaoMusica.resources

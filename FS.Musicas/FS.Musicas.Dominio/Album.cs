@@ -14,5 +14,7 @@ namespace FS.Musicas.Dominio
         public string Observacoes { get; set; }
 
         public string Email { get; set; }
+
+        public virtual List<Musica> Musicas { get; set; }
     }
 }

@@ -10,7 +10,7 @@ namespace FS.Musicas.Web.Annotations
     {
         public override bool IsValid(object value)
         {
-            return value.ToString().EndsWith("@gmail.com.br");
+            return value.ToString().EndsWith("@gmail.com");
         }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using FS.Musicas.Dominio;
 using FS.Musicas.Web.ViewModels.Album;
+using FS.Musicas.Web.ViewModels.Musica;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace FS.Musicas.Web.AutoMapper
         protected override void Configure()
         {
             Mapper.CreateMap<AlbumViewModel, Album>();
+            Mapper.CreateMap<MusicaViewModel, Musica>();
         }
     }
 }

@@ -7,7 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using AutoMapper;
-using FS.Musica.Repositorios.Entity;
+using FS.Musicas.Repositorios.Entity;
 using FS.Musicas.AcessoDados.Entity.Context;
 using FS.Musicas.Dominio;
 using FS.Musicas.Web.ViewModels.Album;

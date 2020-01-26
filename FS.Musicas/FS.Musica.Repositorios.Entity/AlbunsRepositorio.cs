@@ -6,8 +6,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
-namespace FS.Musica.Repositorios.Entity
+namespace FS.Musicas.Repositorios.Entity
 {
     public class AlbunsRepositorio : RepositorioGenericoEntity<Album, int>
     {
@@ -18,6 +19,14 @@ namespace FS.Musica.Repositorios.Entity
              
         }
 
+        public override List<Album> Selecionar()
+        {
+            return _contexto.Set<Album>().Include(p => p.Musicas).ToList();
+        }
 
+        public override Album SelecionarPorId(int id)
+        {
+            return _contexto.Set<Album>().Include(p => p.Musicas).SingleOrDefault(a => a.Id == id);
+        }
     }
 }

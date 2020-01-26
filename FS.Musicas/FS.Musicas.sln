@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Repositorios.Comum", "FS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Repositiorios.Comum.Entity", "FS.Repositiorios.Comum.Entity\FS.Repositiorios.Comum.Entity.csproj", "{1AE0C307-85D9-4B05-B135-F5EEE5B2BDCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Musica.Repositorios.Entity", "FS.Musica.Repositorios.Entity\FS.Musica.Repositorios.Entity.csproj", "{13323899-5EF7-400A-8F91-3352032BBBC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FS.Musicas.Repositorios.Entity", "FS.Musica.Repositorios.Entity\FS.Musicas.Repositorios.Entity.csproj", "{13323899-5EF7-400A-8F91-3352032BBBC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -12,15 +12,18 @@ using FS.Musicas.AcessoDados.Entity.Context;
 using FS.Musicas.Dominio;
 using FS.Musicas.Web.ViewModels.Album;
 using FS.Repositorios.Comum;
+using FS.Musicas.Web.Filtros;
 
 namespace FS.Musicas.Web.Controllers
 {
+
     public class AlbunsController : Controller
     {
         private IRepositorioGenerico<Album, int> repositorioAlbuns = 
             new AlbunsRepositorio(new MusicasDbContext());
 
         // GET: Albuns
+
         public ActionResult Index()
         {
             return View(Mapper.Map<List<Album>, List<AlbumExibicaoViewModel>>(repositorioAlbuns.Selecionar())); //Isso é equivalente a um SELECT * FROM ALB_ALBUNS

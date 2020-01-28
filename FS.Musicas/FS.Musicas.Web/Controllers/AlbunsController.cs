@@ -16,14 +16,13 @@ using FS.Musicas.Web.Filtros;
 
 namespace FS.Musicas.Web.Controllers
 {
-
+    [Authorize]
     public class AlbunsController : Controller
     {
         private IRepositorioGenerico<Album, int> repositorioAlbuns = 
             new AlbunsRepositorio(new MusicasDbContext());
 
         // GET: Albuns
-
         public ActionResult Index()
         {
             return View(Mapper.Map<List<Album>, List<AlbumExibicaoViewModel>>(repositorioAlbuns.Selecionar())); //Isso é equivalente a um SELECT * FROM ALB_ALBUNS
@@ -52,6 +51,7 @@ namespace FS.Musicas.Web.Controllers
         }
 
         // GET: Albuns/Create
+        [Authorize(Roles = "ADMINISTRADOR")]
         public ActionResult Create()
         {
             return View();
@@ -62,6 +62,7 @@ namespace FS.Musicas.Web.Controllers
         // obter mais detalhes, consulte https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "ADMINISTRADOR")]
         public ActionResult Create([Bind(Include = "Id,Nome,Ano,Observacoes,Email")] AlbumViewModel viewModel)
         {
             if (ModelState.IsValid)

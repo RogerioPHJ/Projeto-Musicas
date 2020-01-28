@@ -16,6 +16,7 @@ using FS.Repositorios.Comum;
 
 namespace FS.Musicas.Web.Controllers
 {
+    [Authorize]
     public class MusicasController : Controller
     {
         private IRepositorioGenerico<Musica, long> repositorioMusicas =
